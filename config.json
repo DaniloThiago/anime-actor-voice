@@ -8,14 +8,14 @@
     "text": "Danilo Oliveira"
   },
   "text": {
-    "more": "Grafo sobre os atores que dublam alguns personagens em alguns animes no periodo \u003e\u003d 2021",
+    "more": "Grafo mostra atores que dublaram personagens em alguns animes no periodo \u003e\u003d 2021, como Blue Lock, My Dress-Up Darling, SPY x FAMILY, Overlord IV, Dr. Stone: Ryuusui, entre outros",
     "intro": "Dubladores de Personagens de Animes",
     "title": "Dubladores de Animes"
   },
   "legend": {
     "edgeLabel": "Trabalhou com",
-    "colorLabel": "Anime",
-    "nodeLabel": "Voz do Ator"
+    "colorLabel": "Degree",
+    "nodeLabel": "Ator"
   },
   "features": {
     "search": true,
