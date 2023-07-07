@@ -8,7 +8,7 @@
     "text": "Danilo Oliveira"
   },
   "text": {
-    "more": "Grafo mostra atores que dublaram personagens em 65 animes no periodo \u003e\u003d 2021, dentre eles temos os animes Blue Lock, My Dress-Up Darling, SPY x FAMILY, Overlord IV, Dr. Stone: Ryuusui, entre outros.",
+    "more": "Grafo mostra atores que dublaram personagens em 65 animes no periodo \u003e\u003d 2021, dentre eles temos os naimes Blue Lock, My Dress-Up Darling, SPY x FAMILY, Overlord IV, Dr. Stone: Ryuusui, entre outros",
     "intro": "Dubladores de Personagens de Animes",
     "title": "Dubladores de Animes"
   },
@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "PageRank",
+    "groupSelectorAttribute": "Modularity Class",
     "hoverBehavior": "dim"
   },
   "informationPanel": {

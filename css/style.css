@@ -575,11 +575,3 @@ cursor: pointer;
 display: none;
 }
 
-#ufrn {
-	position: fixed;
-	right: 10px;
-	top: 10px;
-}
-#ufrn img {
-	width: 180px;
-}
