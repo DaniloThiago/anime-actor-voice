@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Modularity Class",
+    "groupSelectorAttribute": "PageRank",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
