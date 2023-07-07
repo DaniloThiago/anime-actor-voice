@@ -8,18 +8,18 @@
     "text": "Danilo Oliveira"
   },
   "text": {
-    "more": "Graph about collaboration of actors\u0027 voice in animes",
-    "intro": "Graph about collaboration of actors\u0027 voice in animes",
-    "title": "Voice Actors"
+    "more": "Grafo sobre os atores que dublam alguns personagens em alguns animes no periodo \u003e\u003d 2021",
+    "intro": "Dubladores de Personagens de Animes",
+    "title": "Dubladores de Animes"
   },
   "legend": {
-    "edgeLabel": "Worked With",
+    "edgeLabel": "Trabalhou com",
     "colorLabel": "Anime",
-    "nodeLabel": "Voice Actor"
+    "nodeLabel": "Voz do Ator"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
+    "groupSelectorAttribute": "color",
     "hoverBehavior": "default"
   },
   "informationPanel": {
