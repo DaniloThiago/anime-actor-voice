@@ -575,3 +575,9 @@ cursor: pointer;
 display: none;
 }
 
+#ufrn {
+	position: fixed;
+	width: 180px;
+	right: 10px;
+	top: 10px;
+}
